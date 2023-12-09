@@ -13,8 +13,7 @@
 ![SoloKode's Stats](https://github-readme-stats.vercel.app/api?username=SoloKode&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![SoloKode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoloKode&theme=vue-dark&hide_border=true)
 ![SoloKode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoloKode&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=SoloKode&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SoloKode&icon=6&color=6)](https://visitcount.itsvg.in)

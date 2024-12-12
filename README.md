@@ -4,10 +4,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=solokode&label=Profile%20views&color=0e75b6&style=flat" alt="solokode" /> </p>
 
 # 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solokode&langs_count=3&theme=apprentice&include_all_commits=true&count_private=true&card_width=420"&exclude_repo=EventSnap,solokode.github.io,GayaGini.io,GayaGini,FirstRepo,member,KivyMD-data,ecc_detch,itbox_advanced&size_weight=0&count_weight=0) <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solokode\&include_all_commits=true&theme=apprentice\&rank_icon=github&hide=issues&card_width=320")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solokode&langs_count=3&theme=monokai&include_all_commits=true&count_private=true&card_width=420"&exclude_repo=EventSnap,solokode.github.io,GayaGini.io,GayaGini,FirstRepo,member,KivyMD-data,ecc_detch,itbox_advanced&size_weight=0&count_weight=0) <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solokode\&include_all_commits=true&theme=monokai\&rank_icon=github&hide=issues&card_width=320")
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=solokode&theme=apprentice&no-frame=false&no-bg=true&margin-w=44&margin-h=44&row=2&column=3&)
+![](https://github-profile-trophy.vercel.app/?username=solokode&theme=monokai&no-frame=false&no-bg=true&margin-w=44&margin-h=44&row=2&column=3&)
 
 ## 🔗 Connect with me
 <p align="left"><a href="https://linkedin.com/in/sayid-achmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayid-achmad" height="30" width="40" /></a></p>

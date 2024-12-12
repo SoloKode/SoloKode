@@ -5,11 +5,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=solokode&label=Profile%20views&color=0e75b6&style=flat" alt="solokode" /> </p>
 
 # 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=solokode&theme=apprentice&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=solokode&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solokode&langs_count=14&hide_progress=true&theme=apprentice&include_all_commits=true&count_private=true)
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=solokode&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=solokode&theme=apprentice&no-frame=false&no-bg=true&margin-w=4&row=2&column=3)
 
 ## 🔗 Connect with me
 <p align="left"><a href="https://linkedin.com/in/sayid-achmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayid-achmad" height="30" width="40" /></a></p>
